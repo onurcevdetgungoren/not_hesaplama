@@ -1,6 +1,6 @@
-# not_sepeti
+# Not_Hesaplama
+SqLite(SqFlite) kullanarak lokal Db oluşturarak, harf Notu ve ortalama hesaplama uygulaması.
 
-A new Flutter project.
 
 ## Getting Started
 
